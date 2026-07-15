@@ -6,15 +6,17 @@
 </p>
 
 <br>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+<h1 align="center">
 OKORIE CHIGOZIE JEHOSHAPHAT
+</h1>
 
+<h3 align="center">
 Full-Stack Software Engineer
+</h3>
 
+<p align="center">
 Building software that solves real-world problems.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Scalable+Full-Stack+Applications;Designing+REST+APIs;Creating+Modern+React+%26+Next.js+Experiences;Exploring+Blockchain+Development;Contributing+to+Open+Source;Participating+in+Hackathons;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing Animation" />
@@ -45,7 +47,7 @@ My work spans **backend systems**, **modern frontend applications**, **REST APIs
 
 ### 🎨 Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind,html,css" />
 </p>
 
@@ -77,7 +79,6 @@ My work spans **backend systems**, **modern frontend applications**, **REST APIs
 Currently exploring smart contract development with <strong>ink!</strong> and blockchain ecosystems.
 </p>
 
-<img width="1051" height="753" alt="image" src="https://github.com/user-attachments/assets/3fdbb3b8-fb15-47a1-bd7f-92617aeb49f8" />
 
 ---
 
@@ -129,16 +130,28 @@ I'm excited to continue participating in more local and global hackathons.
 
 ---
 
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chigybillionz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chigybillionz&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chigybillionz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chigybillionz&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chigybillionz&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=chigybillionz&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chigybillionz&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 
