@@ -71,7 +71,7 @@ My work spans **backend systems**, **modern frontend applications**, **REST APIs
 
 ### ⛓️ Blockchain
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=rust" />
 </p>
 
@@ -112,7 +112,6 @@ I enjoy collaborating with developers across different communities and contribut
 
 ### Contributions
 
-- 🌊 Stellar Waves
 - 💧 Drips
 - 🦊 GrantFox
 
