@@ -181,6 +181,8 @@ I'm excited to continue participating in more local and global hackathons while 
 
 ---
 <p align="center">
+---
+
 # 🤝 Let's Connect
 
 <p align="center">
@@ -196,21 +198,10 @@ Let's build something amazing together 🚀
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-
 <a href="https://github.com/chigybillionz">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-
----
----
-
-<p align="center">
-
-<p align="center">
-
-Thank you for visiting my profile.
-
 I'm always open to learning, collaborating, and building software that creates real-world impact.
 
 ⭐ Feel free to explore my repositories and connect with me.
