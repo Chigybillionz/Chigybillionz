@@ -127,4 +127,18 @@ Although I'm still early in my hackathon journey, they've helped me improve my e
 
 I'm excited to continue participating in more local and global hackathons.
 
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chigybillionz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chigybillionz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chigybillionz&theme=tokyonight&hide_border=true" />
+</p>
+
 
