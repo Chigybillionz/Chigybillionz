@@ -23,7 +23,7 @@ Open Source Contributor • Hackathon Enthusiast • Lifelong Learner
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&duration=3500&center=true&vCenter=true&width=900&color=3B82F6&lines=Full-Stack+Software+Engineer;Backend+Engineer;React+%7C+Next.js+%7C+Vue+Developer;Building+Scalable+REST+APIs;Open+Source+Contributor;Hackathon+Enthusiast;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&repeat=true&width=900&lines=Building+Scalable+Full-Stack+Applications;Designing+REST+APIs;Creating+Modern+React+%26+Next.js+Experiences;Exploring+Blockchain+Development;Contributing+to+Open+Source;Participating+in+Hackathons;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
 
 ---
