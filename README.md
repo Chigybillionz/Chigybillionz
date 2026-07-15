@@ -108,16 +108,15 @@ Currently exploring smart contract development with <strong>ink!</strong> and bl
 
 # 🌍 Open Source
 
-I enjoy collaborating with developers across different communities and contributing to open-source projects.
+I enjoy contributing to both personal and community-driven software projects.
 
-### Contributions
+Over the past year, I've contributed across numerous repositories through commits, pull requests, and collaborative development while continuously improving my engineering skills.
 
-- 💧 Drips
+Some of the projects and communities I've contributed to include:
+
+- 💧 Drips Stellar Waves
 - 🦊 GrantFox
-
-Open source has been a great way for me to learn from experienced engineers while giving back to the community.
-
----
+- 🧭 Travel Genesis
 
 # 🏆 Hackathons
 
