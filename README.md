@@ -53,19 +53,19 @@ My work spans **backend systems**, **modern frontend applications**, **REST APIs
 
 ### ⚙️ Backend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 ### 🚀 DevOps & Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
 </p>
 
@@ -153,5 +153,31 @@ I'm excited to continue participating in more local and global hackathons.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chigybillionz&theme=tokyo-night&hide_border=true"/>
 
 </p>
+---
 
+# 💻 Currently Working With
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,docker,rust"/>
+
+</p>
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/okoriechigoziejehoshaphat">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/chigoziokorie">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+
+<a href="https://github.com/chigybillionz">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
