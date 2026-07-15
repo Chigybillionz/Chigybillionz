@@ -37,3 +37,41 @@ My work spans **backend systems**, **modern frontend applications**, **REST APIs
 ## 🚀 Current Mission
 
 > Building scalable full-stack applications, contributing to open source, participating in hackathons, and deepening my knowledge of backend systems, cloud technologies, and blockchain development.
+
+---
+
+# 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind,html,css" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### 🚀 DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+</p>
+
+### ⛓️ Blockchain
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rust" />
+</p>
+
+<p>
+Currently exploring smart contract development with <strong>ink!</strong> and blockchain ecosystems.
+</p>
